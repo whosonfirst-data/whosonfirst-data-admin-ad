@@ -1,0 +1,72 @@
+{
+  "id": 9895008410,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.52879,42.50117,1.52879,42.50117",
+    "geom:latitude":42.50117,
+    "geom:longitude":1.52879,
+    "iso:country":"AD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11945537: name \"La Comella\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11945537"
+        },
+        {
+            "citation":"GeoNames populated place 11945537: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11945537"
+        },
+        {
+            "citation":"GeoNames populated place 11945537: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11945537"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85667941 (Escaldes-Engordany), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632343,
+        85667941,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11945537
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"4a49b11d40cc32447f860ed7fc2dda04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":9895008410,
+            "region_id":85667941
+        }
+    ],
+    "wof:id":9895008410,
+    "wof:lastmodified":1795734941,
+    "wof:name":"La Comella",
+    "wof:parent_id":85667941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.52879,
+    42.50117,
+    1.52879,
+    42.50117
+],
+  "geometry": {"coordinates":[1.52879,42.50117],"type":"Point"}
+}
