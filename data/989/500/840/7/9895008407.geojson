@@ -1,0 +1,72 @@
+{
+  "id": 9895008407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.4891,42.48597,1.4891,42.48597",
+    "geom:latitude":42.48597,
+    "geom:longitude":1.4891,
+    "iso:country":"AD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3038899: name \"Tossalet i Vinyals\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3038899"
+        },
+        {
+            "citation":"GeoNames populated place 3038899: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3038899"
+        },
+        {
+            "citation":"GeoNames populated place 3038899: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3038899"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85667945 (Sant Juli\u00e0 de L\u00f2ria), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632343,
+        85667945,
+        102191581
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3038899
+    },
+    "wof:country":"AD",
+    "wof:geomhash":"b72eb3a7cce24863077c5bdbf38fcc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85632343,
+            "locality_id":9895008407,
+            "region_id":85667945
+        }
+    ],
+    "wof:id":9895008407,
+    "wof:lastmodified":1795734941,
+    "wof:name":"Tossalet i Vinyals",
+    "wof:parent_id":85667945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ad",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.4891,
+    42.48597,
+    1.4891,
+    42.48597
+],
+  "geometry": {"coordinates":[1.4891,42.48597],"type":"Point"}
+}
